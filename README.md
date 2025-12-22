@@ -4,7 +4,7 @@
 
 **The fastest way to build full-stack React apps with Cloudflare Workers**
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dreemrworld/shadcnvitecf-quickstart)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dreemrworld/vite-react-hono-shadcn-quickstart)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -71,6 +71,16 @@ Your app will be live on Cloudflare's global network instantly.
 - 🚀 **Cloudflare Workers** + Hono for backend
 - 📦 **Everything configured** and ready to deploy
 
+## 🔧 Developer Dependencies
+
+This template includes a comprehensive set of development tools:
+
+- **Testing**: Vitest, Testing Library (@testing-library/react, @testing-library/jest-dom), jsdom
+- **Code Quality**: ESLint, Prettier, TypeScript ESLint
+- **Build Tools**: Vite, @vitejs/plugin-react, @cloudflare/vite-plugin
+- **TypeScript**: TypeScript compiler, type definitions (@types/node, @types/react, @types/react-dom)
+- **Deployment**: Wrangler CLI for Cloudflare Workers
+
 ## � Deployment
 
 ```bash
@@ -81,7 +91,7 @@ Your app is live on Cloudflare's global network! 🌐
 
 ## 🤝 Contributing
 
-Found a bug? Have a suggestion? [Open an issue](https://github.com/dreemrworld/shadcnvitecf-quickstart/issues) or [start a discussion](https://github.com/dreemrworld/shadcnvitecf-quickstart/discussions).
+Found a bug? Have a suggestion? [Open an issue](https://github.com/dreemrworld/vite-react-hono-shadcn-quickstart/issues) or [start a discussion](https://github.com/dreemrworld/vite-react-hono-shadcn-quickstart/discussions).
 
 ## 📄 License
 
@@ -93,7 +103,7 @@ MIT License - free for personal and commercial use.
 
 **Built with ❤️ for the open-source community**
 
-[⭐ Star this repo](https://github.com/dreemrworld/shadcnvitecf-quickstart) • [🐛 Report issues](https://github.com/dreemrworld/shadcnvitecf-quickstart/issues) • [💬 Discussions](https://github.com/dreemrworld/shadcnvitecf-quickstart/discussions)
+[⭐ Star this repo](https://github.com/dreemrworld/vite-react-hono-shadcn-quickstart) • [🐛 Report issues](https://github.com/dreemrworld/vite-react-hono-shadcn-quickstart/issues) • [💬 Discussions](https://github.com/dreemrworld/vite-react-hono-shadcn-quickstart/discussions)
 
 Created by [carlos.goat.africa](https://carlos.goat.africa)
 
