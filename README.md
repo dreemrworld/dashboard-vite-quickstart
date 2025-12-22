@@ -1,43 +1,45 @@
 <div align="center">
 
-# 🎨 Modern Portfolio with AI Integration
+# ⚡ Vite React Hono Shadcn Quickstart
 
-**A sleek, interactive portfolio showcasing projects with AI-powered features**
+**The fastest way to build full-stack React apps with Cloudflare Workers**
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dreemrworld/portfolio-shell-ai)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dreemrworld/shadcnvitecf-quickstart)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/)
 
-**🚀 Lightning Fast • 🎯 Project Showcase • 🤖 AI Integration**
+**🚀 Under 1KB worker bundle • ⚡ Instant deployment • 🤖 AI-ready**
 
-[Quick Start](#-quick-start) • [Features](#-features) • [Projects](#-projects) • [Contributing](#-contributing)
+[Quick Start](#-quick-start) • [Features](#-features) • [Documentation](https://developers.cloudflare.com/workers/) • [Contributing](#-contributing)
 
 </div>
 
 ---
 
-## ✨ About This Portfolio
+## ✨ Why This Template?
 
-A modern, responsive portfolio website designed to showcase your projects and skills with cutting-edge AI integration.
+Tired of wrestling with complex setups? This template gives you a **production-ready full-stack application** in minutes, not hours.
 
-- **🎯 Project Showcase**: Interactive sidebar navigation to your featured projects
-- **🤖 AI Integration**: Built-in AI assistant for enhanced user interactions
-- **🎨 Beautiful Design**: Modern UI with shadcn/ui components and smooth animations
-- **⚡ Performance**: Lightning-fast loading with Cloudflare Workers
-- **📱 Responsive**: Optimized for all devices and screen sizes
+- **⚡ Lightning Fast**: Sub-1KB worker bundle, instant cold starts
+- **🎨 Beautiful UI**: Pre-configured shadcn/ui components
+- **🔧 Zero Config**: Everything works out of the box
+- **🤖 AI Integration Ready**: Built for modern AI applications
+- **📦 Modern Stack**: React 19, TypeScript, Vite, Hono, Tailwind
 
-Perfect for developers, designers, and creators looking to present their work professionally!
+Perfect for building SaaS apps, AI tools, dashboards, and more! Example [chat.bull.africa](https://chat.bull.africa) is only 218kb.
 
 ## 🚀 Quick Start
 
-### 1. Clone the Repository
+### 1. Use This Template
+
+Click the **"Use this template"** button above or run:
 
 ```bash
-git clone https://github.com/dreemrworld/portfolio-shell-ai.git
-cd portfolio-shell-ai
+npx degit dreemrworld/cloudflare-saas-quickstart my-app
+cd my-app
 ```
 
 ### 2. Install Dependencies
@@ -62,52 +64,24 @@ pnpm run deploy
 
 Your app will be live on Cloudflare's global network instantly.
 
-## 🛠️ Features
+## 🛠️ What's Included
 
-### 🎯 Interactive Sidebar Navigation
-- Clean, collapsible sidebar with project categories
-- Smooth transitions and responsive design
-- Easy navigation between different portfolio sections
+- ⚡ **React 19** + TypeScript + Vite
+- 🎨 **Tailwind CSS v4** + shadcn/ui components
+- 🚀 **Cloudflare Workers** + Hono for backend
+- 📦 **Everything configured** and ready to deploy
 
-### 🤖 AI Integration
-- Built-in AI assistant for enhanced user experience
-- Smart recommendations and interactive features
-- Modern AI-powered portfolio capabilities
-
-### 🎨 Modern UI Components
-- shadcn/ui component library for consistent design
-- Tailwind CSS for responsive styling
-- Dark/light mode support
-
-### ⚡ Performance & Deployment
-- Cloudflare Workers for global CDN deployment
-- Sub-1KB worker bundle with instant cold starts
-- Optimized build with Vite and TypeScript
-
-## 🚀 Deployment
+## � Deployment
 
 ```bash
 pnpm deploy
 ```
 
-Your portfolio will be live on Cloudflare's global network! 🌐
-
-## 🎯 Projects
-
-This portfolio template is designed to showcase your work effectively. The sidebar navigation allows you to organize your projects into categories:
-
-### Current Structure
-- **Web Applications**: Full-stack projects and web apps
-- **AI/ML Projects**: Machine learning and AI implementations
-- **Design Projects**: UI/UX and graphic design work
-- **Open Source**: Contributions and personal projects
-
-### Adding Your Projects
-Edit the project configuration files to add your own projects with descriptions, screenshots, and links.
+Your app is live on Cloudflare's global network! 🌐
 
 ## 🤝 Contributing
 
-Found a bug? Have a suggestion? [Open an issue](https://github.com/dreemrworld/portfolio-shell-ai/issues) or [start a discussion](https://github.com/dreemrworld/portfolio-shell-ai/discussions).
+Found a bug? Have a suggestion? [Open an issue](https://github.com/dreemrworld/shadcnvitecf-quickstart/issues) or [start a discussion](https://github.com/dreemrworld/shadcnvitecf-quickstart/discussions).
 
 ## 📄 License
 
@@ -119,6 +93,8 @@ MIT License - free for personal and commercial use.
 
 **Built with ❤️ for the open-source community**
 
-[⭐ Star this repo](https://github.com/dreemrworld/portfolio-shell-ai) • [🐛 Report issues](https://github.com/dreemrworld/portfolio-shell-ai/issues) • [💬 Discussions](https://github.com/dreemrworld/portfolio-shell-ai/discussions)
+[⭐ Star this repo](https://github.com/dreemrworld/shadcnvitecf-quickstart) • [🐛 Report issues](https://github.com/dreemrworld/shadcnvitecf-quickstart/issues) • [💬 Discussions](https://github.com/dreemrworld/shadcnvitecf-quickstart/discussions)
+
+Created by [carlos.goat.africa](https://carlos.goat.africa)
 
 </div>
