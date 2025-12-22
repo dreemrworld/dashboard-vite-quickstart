@@ -2,8 +2,6 @@
 
 # Dashboard - Vite React Hono Shadcn Quickstart
 
-**Every great webapp is a dashboard. Built for Cloudflare Workers deployment.**
-
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dreemrworld/dashboard-vite-quickstart)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
