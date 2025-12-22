@@ -38,7 +38,7 @@ Perfect for building SaaS apps, AI tools, dashboards, and more! Example [chat.bu
 Click the **"Use this template"** button above or run:
 
 ```bash
-npx degit dreemrworld/cloudflare-saas-quickstart my-app
+npx degit dreemrworld/vite-react-hono-shadcn my-app
 cd my-app
 ```
 
