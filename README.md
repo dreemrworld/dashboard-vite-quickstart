@@ -21,7 +21,7 @@
 
 ## 🎯 Philosophy: Every Great Webapp is a Dashboard
 
-Modern web applications are fundamentally read/write wrappers of **dashboards**. This template embraces this reality by providing a **dashboard-first** development experience.
+Modern web applications like Youtube, Gmail, ChatGPT, Netflix, etc, are fundamentally **dashboards** that allow read/write of a specialized database/service. This template embraces this reality by providing a **dashboard-first** development experience.
 
 Perfect for building:
 - **Admin panels** and control centers
