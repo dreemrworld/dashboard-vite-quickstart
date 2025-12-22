@@ -4,7 +4,7 @@
  */
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "carlos-goat-upgrade",
+  "name": "dashboard-vite-quickstart",
   "main": "worker/index.ts",
   "compatibility_date": "2025-11-25",
   "assets": {
